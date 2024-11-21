@@ -1,0 +1,7 @@
+2024-11-21 10:57:12.207 [main] INFO  com.example.demo.Demo5ApplicationTests - Starting Demo5ApplicationTests using Java 17.0.11 with PID 18024 (started by BO in D:\Development\Projects\demo5)
+2024-11-21 10:57:12.218 [main] DEBUG com.example.demo.Demo5ApplicationTests - Running with Spring Boot v3.0.2, Spring v6.0.4
+2024-11-21 10:57:12.219 [main] INFO  com.example.demo.Demo5ApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-11-21 10:57:13.189 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-11-21 10:57:13.193 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-11-21 10:57:13.239 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2024-11-21 10:57:15.705 [main] INFO  com.example.demo.Demo5ApplicationTests - Started Demo5ApplicationTests in 3.944 seconds (process running for 5.126)
